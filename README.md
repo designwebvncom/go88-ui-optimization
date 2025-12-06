@@ -36,7 +36,7 @@ Fix iOS Certificate Error
 
 To run the performance test script locally:
 
-git clone [https://github.com/designwebvn/go88-ui-optimization.git](https://github.com/designwebvn/go88-ui-optimization.git)
+git clone [https://github.com/designwebvncom/go88-ui-optimization.git](https://github.com/designwebvncom/go88-ui-optimization.git)
 cd go88-ui-optimization
 npm install
 npm start
